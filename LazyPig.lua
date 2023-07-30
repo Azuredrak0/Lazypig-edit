@@ -2208,7 +2208,7 @@ function LazyPig_CancelSalvationBuff()
 end
 
 function LazyPig_CheckSalvation()
-	if(LPCONFIG.SALVA == 1 or LPCONFIG.SALVA == 2 and (LazyPig_IsShieldEquipped() and LazyPig_PlayerClass("Warrior", "player") or LazyPig_IsBearForm())) then
+	if(LPCONFIG.SALVA == 1 or LPCONFIG.SALVA == 2 and (LazyPig_IsShieldEquipped() or LazyPig_IsBearForm())) then
 		LazyPig_CancelSalvationBuff()
 	end
 end
