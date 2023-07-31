@@ -163,7 +163,7 @@ local LazyPigMenuStrings = {
 		[55]= "Block BG Quest Sharing",
 		
 		[60]= "Always",
-		[61]= "Warrior Shield/Druid Bear",
+		[61]= "Shield/Druid Bear",
 		
 		[70]= "Players' Spam",
 		[71]= "Uncommon Roll",
