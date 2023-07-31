@@ -1,3 +1,4 @@
+Azuredrak0 (7/30/2023):  Updated the option to remove salvation when shield is equipped also for any classes that use s shield (not just warrior)
 Updated for Turtle WoW Expansion mounts and Riding Turtle - autodismount
 
 
